@@ -3,14 +3,14 @@
         "37003664": [
             {
                 "balance_date": "2026-07-27",
-                "balance": 0.0,
+                "balance": 166.24,
                 "usage": 0.0,
                 "recorded_at": "2026-07-27 00:00:00"
             },
             {
                 "balance_date": "2026-07-29",
                 "balance": 106.24,
-                "usage": 0.0,
+                "usage": 60.0,
                 "recorded_at": "2026-07-29 12:56:55"
             }
         ]
